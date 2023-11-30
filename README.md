@@ -77,6 +77,8 @@ English 🇺🇸
 
 ## 👨‍💻 Experience
 
+- 06/2023 - Now: Software developer at CloudVerse
+
 - 2020 - 2022: Software developer at Brothers Creative Solution
 
 ## 📚 Education
