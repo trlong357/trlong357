@@ -82,4 +82,4 @@ English 🇺🇸
 
 ## 📚 Education
 
-- 2018 - 2022: Bachelor's degree, Information Technology at Ton Duc Thang University
+Bachelor's degree, Information Technology at Ton Duc Thang University
