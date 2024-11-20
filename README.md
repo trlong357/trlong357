@@ -9,7 +9,6 @@ I'm a Software Developer with a passion for learning and exploring new technolog
 
 **🚀 About me**
 
-- <img src="https://github.com/Gapur/Gapur/blob/main/assets/developer.gif?raw=true" width="21" />&nbsp;&nbsp; I’m openning to work now;
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/lightning.gif?raw=true" width="21" />&nbsp;&nbsp; Being well-versed in both frontend and backend development allows me to seamlessly bridge the gap between the user interface and server functionality;
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/laptop.gif?raw=true" width="21" />&nbsp;&nbsp; I am passionate about learning new languages, frameworks, and tools, which enables me to adapt quickly to changing project requirements and deliver cutting-edge solutions;
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/doc.gif?raw=true" width="21" />&nbsp;&nbsp; [![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://drive.google.com/file/d/1RdkxyKzkZw0kKjgGAm34U9-ffF_i-ioP/view?usp=sharing).
