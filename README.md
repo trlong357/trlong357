@@ -75,6 +75,7 @@ Vietnamese 🇻🇳
 English 🇺🇸
 
 ## 👨‍💻 Experience
+- 06/2025 - Now: Fullstack Engineer at SoftwareOne
 
 - 06/2023 - Now: Software developer at CloudVerse
 
